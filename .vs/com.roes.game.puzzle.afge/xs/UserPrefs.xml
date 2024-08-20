@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4B802A3B-A082-41BF-729A-4A32B322B5F4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GC.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Board.cs" Line="13" Column="17" />
+      <File FileName="Assets/Scripts/GC.cs" Line="163" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.roes.game.puzzle.afge" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GC.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6a50b11d-6a82-4410-96e1-503f3ab91ef4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
